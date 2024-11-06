@@ -31,4 +31,4 @@ Daniel Bastos Mendonça   (RA: 124117591)<br>
 Juliana Almeida Borges   (RA: 823147128)<br>
 Leonardo                 (RA:)            <br>
 Uriel                    (RA:)           <br>
-?                        (RA:)
+Augusto Inácio Nascimento(RA:) 323221638 <br>
