@@ -29,6 +29,6 @@ O Godot foi a plataforma escolhida para o desenvolvimento do jogo.
 Breno                    (RA:)       <br>
 Daniel Bastos Mendonça   (RA: 124117591)<br>
 Juliana Almeida Borges   (RA: 823147128)<br>
-Leonardo                 (RA: 323214126)<br>
+Leonardo de Paula do Prado(RA: 323214126)<br>
 Uriel                    (RA:)           <br>
 Augusto Inácio Nascimento(RA: 323221638) <br>
