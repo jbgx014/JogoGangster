@@ -1,23 +1,23 @@
-# Jogo Escape Da Prisão 🏃
+# Jogo Gangster 1001 :video_game:
 
 Jogo desenvolvido para a unidade curricular de Usabilidade, desenvolvimento web, mobile e jogos. <br>
 Professores: Alexandre Montanha de Oliveira e Stella Marys Dornelas Lamounier.
 <br><br>
 
-## Objetivo do jogo :video_game:
+## Objetivo do jogo 
 
-O jogador deve ajudar o prisioneiro a escapar da prisão. Para isso, é necessário coletar itens úteis que ajudarão na fuga, enquanto evita os itens prejudiciais. Se o jogador coletar um número excessivo de itens ruins (limite de X), o jogo será encerrado e a mensagem: "Game Over - Tente Novamente" será exibida. Caso o jogador alcance XXXXX pontos, ele receberá a mensagem de vitória.
+O objetivo do jogo é ajudar um aprendiz de gangster em sua evolução na carreira. Para isso, é necessário coletar itens úteis e evitar itens prejudiciais. Se o jogador coletar um número excessivo de itens ruins (limite de X), o jogo será encerrado e a mensagem: "Game Over - Tente Novamente" será exibida. Caso o jogador alcance XXXXX pontos, ele receberá a mensagem de vitória.
 <br><br>
 
 ## Cenas do jogo
 
-O jogo é composto pelas seguintes cenas:
+As cenas que compõem o jogo são:
 
-- Cena principal
-- Cena do prisioneiro
-- Cena do background
+- Background 
+- Prisioneiro
+- Itens positivos (como dinheiro, refrigerante e capsula de energia) :moneybag:
+- Itens negativos (como bomba e comida estragada) :bomb:
 
-Além de cenas para cada um dos itens positivos :apple: (como alimento e peso de musculação) e negativos :bomb: (como comida estragada e algema).
 <br><br>
 
 ## Plataforma 
