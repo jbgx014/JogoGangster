@@ -17,7 +17,6 @@ As cenas que compõem o jogo são:
 - Gangster
 - Itens positivos (como dinheiro, refrigerante e capsula de energia) :moneybag:
 - Itens negativos (como bomba e comida estragada) :bomb:
-
 <br><br>
 
 ## Plataforma 
