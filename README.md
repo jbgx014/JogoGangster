@@ -19,6 +19,10 @@ As cenas que compõem o jogo são:
 - Itens negativos (como bomba e comida estragada) :bomb:
 <br><br>
 
+## Movimentação do personagem:
+Teclas: A (esquerda), D (direita), espaço (pular).
+<br><br>
+
 ## Plataforma 
 O Godot foi a plataforma escolhida para o desenvolvimento do jogo.
 <br><br>
