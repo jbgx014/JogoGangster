@@ -33,5 +33,5 @@ Breno                    (RA:)       <br>
 Daniel Bastos Mendonça   (RA: 124117591)<br>
 Juliana Almeida Borges   (RA: 823147128)<br>
 Leonardo de Paula do Prado(RA: 323214126)<br>
-Uriel                    (RA:)           <br>
-Augusto Inácio Nascimento(RA: 323221638) <br>
+Uriel Lopes Araújo       (RA: 722314078)<br>
+Augusto Inácio Nascimento(RA: 323221638) <br>  
