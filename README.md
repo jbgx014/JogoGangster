@@ -29,7 +29,7 @@ O Godot foi a plataforma escolhida para o desenvolvimento do jogo.
 
 ## ✒️ Autores
 
-Breno                    (RA:)       <br>
+Breno Cesar Mol de Olivera(RA: 323213875)<br>
 Daniel Bastos Mendonça   (RA: 124117591)<br>
 Juliana Almeida Borges   (RA: 823147128)<br>
 Leonardo de Paula do Prado(RA: 323214126)<br>
